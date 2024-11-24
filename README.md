@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on open projects
 
 <a href="https://github.com/LuizGDC7/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizGDC7&theme=radical&include_all_commits=false" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizGDC7&theme=radical&include_all_commits=true" />
 </a>
 <a href="https://github.com/LuizGDC7/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGDC7&layout=compact&langs_count=8&card_width=320&theme=radical" />
